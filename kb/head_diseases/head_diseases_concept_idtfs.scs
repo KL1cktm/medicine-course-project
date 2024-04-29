@@ -430,3 +430,104 @@ concept_Histoplasma_capsulatum
 	[Histoplasma capsulatum is a fungus that causes histoplasmosis, a respiratory disease. It is found in soil contaminated with bird or bat droppings, particularly in areas with large populations of these animals. Inhalation of fungal spores can lead to mild flu-like symptoms or severe respiratory illness, depending on the extent of exposure and the individual's immune status.]
 	(* <- lang_en;; *);;
 
+concept_confusion
+=> nrel_main_idtf:
+	[спутанность сознания]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[confusion]
+	(* <- lang_en;; *);
+=> nrel_idtf:
+	[Спутанность сознания - это состояние, при котором человек испытывает затруднения в понимании, восприятии и ориентации в окружающем мире. Это может проявляться как дезориентация во времени, месте и личности, а также затруднение в общении и принятии решений. Спутанность сознания может быть вызвана различными причинами, такими как инфекции, травмы, нарушения обмена веществ или психические расстройства.]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Confusion is a state in which a person experiences difficulties in understanding, perceiving, and orienting themselves in the surrounding world. It may manifest as disorientation in time, place, and person, as well as difficulty in communication and decision-making. Confusion can be caused by various factors such as infections, injuries, metabolic disorders, or psychiatric conditions.]
+	(* <- lang_en;; *);;
+
+concept_rabies_virus
+=> nrel_main_idtf:
+	[вирус бешенства]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[rabies virus]
+	(* <- lang_en;; *);
+=> nrel_idtf:
+	[Вирус бешенства - это вирус, вызывающий болезнь бешенства, которая поражает центральную нервную систему и чаще всего передается через укусы зараженных животных, таких как собаки или летучие мыши. Бешенство у человека чрезвычайно опасно и, если не лечится, часто приводит к смерти.]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[The rabies virus is a virus that causes rabies, a disease that affects the central nervous system and is most commonly transmitted through the bites of infected animals such as dogs or bats. Rabies in humans is extremely dangerous and, if left untreated, often leads to death.]
+	(* <- lang_en;; *);;
+
+concept_poliovirus
+=> nrel_main_idtf:
+	[полиовирус]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[poliovirus]
+	(* <- lang_en;; *);
+=> nrel_idtf:
+	[Полиовирус - это вирус, вызывающий полиомиелит, инфекционное заболевание, поражающее спинной мозг и приводящее к параличу. Он передается через фекально-оральный путь и обычно заражает детей младшего возраста. Благодаря вакцинации полиовирусное заболевание теперь под контролем во многих странах мира.]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[The poliovirus is a virus that causes poliomyelitis, an infectious disease that affects the spinal cord and leads to paralysis. It is transmitted through the fecal-oral route and typically infects young children. Thanks to vaccination, poliovirus disease is now under control in many countries around the world.]
+	(* <- lang_en;; *);;
+
+concept_measles_virus
+=> nrel_main_idtf:
+	[вирус кори]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[measles virus]
+	(* <- lang_en;; *);
+=> nrel_idtf:
+	[Вирус кори - это вирус, вызывающий корь, острое и очень заразное вирусное заболевание, которое характеризуется высыпаниями на коже, лихорадкой и респираторными симптомами. Он передается через капельки, выделяемые из носа и рта инфицированных людей. Вакцинация играет ключевую роль в предотвращении распространения вируса кори.]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[The measles virus is a virus that causes measles, an acute and highly contagious viral disease characterized by skin rashes, fever, and respiratory symptoms. It is transmitted through droplets emitted from the nose and mouth of infected individuals. Vaccination plays a key role in preventing the spread of the measles virus.]
+	(* <- lang_en;; *);;
+
+
+
+	concept_syphilis
+=> nrel_main_idtf:
+	[сифилис]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Сифилис - это инфекционное заболевание, вызываемое бактерией Treponema pallidum. Оно передается преимущественно половым путем, а также может быть передано от матери к ребенку во время беременности или родов. Сифилис проходит через несколько стадий и может затронуть различные органы и системы, если не лечится.]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Syphilis is an infectious disease caused by the bacterium Treponema pallidum. It is primarily transmitted through sexual contact but can also be passed from mother to child during pregnancy or childbirth. Syphilis progresses through several stages and can affect various organs and systems if left untreated.]
+	(* <- lang_en;; *);;
+
+concept_toxoplasmosis
+=> nrel_main_idtf:
+	[токсоплазмоз]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Токсоплазмоз - это инфекционное заболевание, вызываемое протозоем Toxoplasma gondii. Оно чаще всего передается через контакт с загрязненными котами почвой, растительностью или кормом, а также через потребление зараженной пищи или воды. У большинства людей токсоплазмоз проходит бессимптомно или с легкими симптомами, однако он может быть опасен для беременных женщин и людей с ослабленной иммунной системой.]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Toxoplasmosis is an infectious disease caused by the protozoan Toxoplasma gondii. It is most commonly transmitted through contact with cat feces in soil, vegetation, or litter, as well as through consuming contaminated food or water. In most people, toxoplasmosis is asymptomatic or presents with mild symptoms, but it can be dangerous for pregnant women and individuals with weakened immune systems.]
+	(* <- lang_en;; *);;
+
+concept_malaria
+=> nrel_main_idtf:
+	[малярия]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Малярия - это инфекционное заболевание, вызываемое протозоем Plasmodium, который передается через укусы комаров москитов. Оно характеризуется повторяющимися приступами лихорадки, а также может вызывать симптомы, такие как слабость, головная боль, рвота и желтушность кожи. Малярия может быть смертельной, особенно у детей и беременных женщин, если не лечится надлежащим образом.]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Malaria is an infectious disease caused by the Plasmodium parasite, which is transmitted through the bites of infected mosquitoes. It is characterized by recurrent episodes of fever and can also cause symptoms such as weakness, headache, vomiting, and jaundice. Malaria can be fatal, especially in children and pregnant women, if not properly treated.]
+	(* <- lang_en;; *);;
+
+concept_primary_amoebic_meningoencephalitis
+=> nrel_main_idtf:
+	[первичный амебный менингоэнцефалит]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Первичный амебный менингоэнцефалит - это редкое, но чрезвычайно опасное заболевание, вызываемое амебой Naegleria fowleri. Эта амеба обитает в пресной воде и может проникать в организм через носовые проходы при попадании воды в нос во время купания или плавания. Заболевание быстро прогрессирует и часто приводит к смерти в течение нескольких дней после начала симптомов.]
+	(* <- lang_ru;; *);
+=> nrel_idtf:
+	[Primary amoebic meningoencephalitis is a rare but extremely dangerous disease caused by the amoeba Naegleria fowleri. This amoeba inhabits freshwater environments and can enter the body through the nasal passages when water enters the nose during bathing or swimming. The disease progresses rapidly and often leads to death within a few days of symptom onset.]
+	(* <- lang_en;; *);;
